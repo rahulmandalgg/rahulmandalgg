@@ -1,34 +1,49 @@
-<!-- Dynamic Greeting -->
-![Header](https://your-link-to-a-custom-banner.com)
+![Header](https://images7.alphacoders.com/133/1330715.png)
 
 <h1 align="center">Hi, I'm Rahul Mandal! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-stack+Developer;Open+Source+Contributor;Enthusiastic+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-stack+Developer;Open+Source+Contributor;Data+Science+Enthusiast;IIT+Kharagpur+Graduate" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-YourName-blue" alt="LinkedIn"></a>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-Online-green" alt="Portfolio"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-youremail%40example.com-red" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/rahul-m-88122b127/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Mandal-blue" alt="LinkedIn"></a>
+  <a href="https://github.com/rahulmandalgg"><img src="https://img.shields.io/badge/GitHub-rahulmandalgg-lightgrey" alt="GitHub"></a>
+  <a href="mailto:lachrymoseeee@gmail.com"><img src="https://img.shields.io/badge/Email-lachrymoseeee%40gmail.com-red" alt="Email"></a>
 </p>
 
+---
 
 ## 🚀 About Me
 
-- 🎓 I'm a final-year Dual Degree student at IIT Kharagpur.
-- 💻 Passionate about **Software Development**, **Data Science**, and **Open Source**.
-- 🌱 Currently working on: Banking Fraud Detection Using Graphical Neural Networks as my M.Tech Project.
-- ⚡ Fun fact: I [fun fact about you].
+- 🎓 Dual Degree (B.Tech + M.Tech) student in **Computer Science and Engineering** at **IIT Kharagpur**, graduating in 2025.
+- 💻 Data Science Intern at **HDFC Bank**, focusing on enhancing salary prediction models using lookalike data and advanced ML algorithms.
+- 🌐 Passionate about **Web Development**, **Machine Learning**, and **Distributed Systems**.
+- 🌱 Currently working on **Banking Fraud Detection Using GNN** for my M.Tech Project.
+- ⚡ Fun fact: I can debug code faster than I can decide what to eat for lunch.
 
-### 💻 Languages
+---
+
+## 💻 Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)&nbsp;
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)&nbsp;
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)&nbsp;
+### Web Development
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)&nbsp;
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)&nbsp;
+
+### Tools & Frameworks
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio)&nbsp;
 
-## 📊 GitHub Stats
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulmandalgg&show_icons=true&theme=radical" />
@@ -36,7 +51,17 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rahulmandalgg&theme=react-dark" />
 </p>
 
-## 🎨 Fun Widgets
+---
+
+## 🏆 Achievements
+
+- 🏅 Enhanced **customer acquisition strategies** at HDFC Bank using lookalike modeling techniques and XGBoost regression.
+- 🌍 Contributed to the localization of an **Android application** for a global user base at the University of Belgrade.
+- 📈 Built a **real-time weapon detection system** using YOLOv8 for high-accuracy detection.
+
+---
+
+## 🔥 Fun Widgets
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahulmandalgg&theme=onedark" />
@@ -45,3 +70,39 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
+---
+
+## 📚 Education & Certifications
+
+- **Indian Institute of Technology Kharagpur**  
+  Computer Science and Engineering (Dual Degree), 2020-2025
+
+- **Courses Completed**:  
+  - Programming and Data Structures  
+  - Machine Learning  
+  - Distributed Systems  
+  - High-Performance Computer Architecture  
+
+---
+
+## 💼 Professional Experience
+
+### **Data Science Intern**  
+**HDFC Bank** (Apr 2024 - Jun 2024)  
+- Developed lookalike modeling techniques using KNN, K-Means, and DBSCAN.  
+- Enhanced salary prediction models using XGBoost regression.  
+- Conducted extensive feature engineering and analysis of financial datasets.
+
+### **Android Development Intern**  
+**University of Belgrade** (Jul 2022 - Oct 2022)  
+- Localized an Android application to English.  
+- Contributed to app development using **Android Studio** and **Java**.
+
+---
+
+## 📫 How to Reach Me
+
+- **Email**: [lachrymoseeee@gmail.com](mailto:lachrymoseeee@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/rahul-m-88122b127](https://www.linkedin.com/in/rahul-m-88122b127/)  
+- **GitHub**: [github.com/rahulmandalgg](https://github.com/rahulmandalgg)
