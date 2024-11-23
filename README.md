@@ -1,7 +1,7 @@
 ![Header](https://github.com/rahulmandalgg/rahulmandalgg/blob/main/1330715.png?raw=true)
 
 
-<h1 align="center">Hi, I'm Rahul Mandal!   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Science;Software+Development;Data+Science;IIT+Kharagpur+Graduate" style="display: block; margin: 0 auto;" />
+<h1 align="center">Hi, I'm Rahul Mandal!   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Science;Software+Development;Data+Science;IIT+Kharagpur+Graduate" />
  👋</h1>
 
 
