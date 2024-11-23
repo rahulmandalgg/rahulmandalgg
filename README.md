@@ -20,42 +20,6 @@
 - 🌱 Currently working on: Banking Fraud Detection Using Graphical Neural Networks as my M.Tech Project.
 - ⚡ Fun fact: I [fun fact about you].
 
-
-Sure! A visually appealing and professional README for your GitHub profile can help showcase your skills, projects, and personality. Below is a general layout and some suggestions for graphical elements:
-
-1. Header Section
-Use a dynamic or aesthetic header image or animation with a friendly introduction.
-You can use Shields.io for badges and tools like Canva or Cool Text for custom headers.
-
-markdown
-Copy code
-<!-- Dynamic Greeting -->
-![Header](https://your-link-to-a-custom-banner.com)
-
-<h1 align="center">Hi, I'm [Your Name]! 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-stack+Developer;Open+Source+Contributor;Enthusiastic+Learner" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-YourName-blue" alt="LinkedIn"></a>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-Online-green" alt="Portfolio"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-youremail%40example.com-red" alt="Email"></a>
-</p>
-2. About Me Section
-Add icons, a short bio, and interests.
-
-markdown
-Copy code
-## 🚀 About Me
-
-- 🎓 I'm a final-year [Your Degree] student at [Your University].
-- 💻 Passionate about **Software Development**, **Data Science**, and **Open Source**.
-- 🌱 Currently working on: [Project Name] | Learning [Skill].
-- ⚡ Fun fact: I [fun fact about you].
-
-## 🛠️ Tech Stack
-
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)&nbsp;
