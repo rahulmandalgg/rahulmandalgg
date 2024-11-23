@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Rahul Mandal! 👋  />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Computer+Science;Software+Development;Data+Science;IIT+Kharagpur+Graduate")](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Computer+Science;Software+Development;Data+Science;IIT+Kharagpur+Graduate" alt="Typing SVG" /></a>
 </h1>
 
 
