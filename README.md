@@ -1,5 +1,6 @@
 ![Header](https://images7.alphacoders.com/133/1330715.png)
 
+
 <h1 align="center">Hi, I'm Rahul Mandal! 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-stack+Developer;Open+Source+Contributor;Data+Science+Enthusiast;IIT+Kharagpur+Graduate" />
