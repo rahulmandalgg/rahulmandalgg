@@ -1,4 +1,4 @@
-![Header](https://images7.alphacoders.com/133/1330715.png)
+![Header](https://github.com/rahulmandalgg/rahulmandalgg/blob/main/1330715.png?raw=true)
 
 
 <h1 align="center">Hi, I'm Rahul Mandal! 👋</h1>
