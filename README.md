@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Rahul Mandal! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-stack+Developer;Open+Source+Contributor;Data+Science+Enthusiast;IIT+Kharagpur+Graduate" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Science;Software+Development;Data+Science;IIT+Kharagpur+Graduate" />
 </p>
 
 <p align="center">
