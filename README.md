@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi, I'm Rahul Mandal! 👋</h1>
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Science;Software+Development;Data+Science;IIT+Kharagpur+Graduate" />
-</p>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-m-88122b127/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Mandal-blue" alt="LinkedIn"></a>
@@ -27,15 +27,18 @@
 ## 💻 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)&nbsp;
+
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)&nbsp;
+
 
 ### Tools & Frameworks
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)&nbsp;
@@ -78,12 +81,6 @@
 
 - **Indian Institute of Technology Kharagpur**  
   Computer Science and Engineering (Dual Degree), 2020-2025
-
-- **Courses Completed**:  
-  - Programming and Data Structures  
-  - Machine Learning  
-  - Distributed Systems  
-  - High-Performance Computer Architecture  
 
 ---
 
