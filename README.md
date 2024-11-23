@@ -17,8 +17,8 @@
 ## 🚀 About Me
 
 - 🎓 Dual Degree (B.Tech + M.Tech) student in **Computer Science and Engineering** at **IIT Kharagpur**, graduating in 2025.
-- 💻 Data Science Intern at **HDFC Bank**, focusing on enhancing salary prediction models using lookalike data and advanced ML algorithms.
-- 🌐 Passionate about **Web Development**, **Machine Learning**, and **Distributed Systems**.
+- 💻 Intern at **HDFC Bank**, **UoB-FON**
+- 🌐 Passionate about **Software Development**, **Machine Learning**.
 - 🌱 Currently working on **Banking Fraud Detection Using GNN** for my M.Tech Project.
 - ⚡ Fun fact: I can debug code faster than I can decide what to eat for lunch.
 
