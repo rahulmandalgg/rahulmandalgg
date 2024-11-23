@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi, I'm Rahul Mandal! 👋</h1>
-<center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Science;Software+Development;Data+Science;IIT+Kharagpur+Graduate" />
-</center>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Science;Software+Development;Data+Science;IIT+Kharagpur+Graduate" style="display: block; margin: 0 auto;" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-m-88122b127/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Mandal-blue" alt="LinkedIn"></a>
