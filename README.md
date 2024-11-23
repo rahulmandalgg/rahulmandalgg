@@ -1,8 +1,8 @@
 ![Header](https://github.com/rahulmandalgg/rahulmandalgg/blob/main/1330715.png?raw=true)
 
 
-<h1 align="center">Hi, I'm Rahul Mandal! 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg) />
-  
+<h1 align="center">Hi, I'm Rahul Mandal! 👋  />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Computer+Science;Software+Development;Data+Science;IIT+Kharagpur+Graduate")](https://git.io/typing-svg)
 </h1>
 
 
