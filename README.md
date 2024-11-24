@@ -1,4 +1,4 @@
-![Header](https://github.com/rahulmandalgg/rahulmandalgg/blob/main/1330715.png?raw=true)
+![Header](https://github.com/rahulmandalgg/rahulmandalgg/raw/refs/heads/main/lol.webp)
 
 
 <h1 align="center">Hi, I'm Rahul Mandal! 👋  />
