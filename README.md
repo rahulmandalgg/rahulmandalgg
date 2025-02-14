@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 🎓 Dual Degree (B.Tech + M.Tech) student in **Computer Science and Engineering** at **IIT Kharagpur**, graduating in 2025.
-- 💻 Intern at **HDFC Bank**, **UoB-FON**
+- 💻 Intern at **HDFC Bank**, **University of Belgrade-FON**
 - 🌐 Passionate about **Software Development**, **Machine Learning**.
 - 🌱 Currently working on **Banking Fraud Detection Using GNN** for my M.Tech Project.
 - ⚡ Fun fact: I can debug code faster than I can decide what to eat for lunch.
